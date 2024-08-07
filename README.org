@@ -1,0 +1,3 @@
+A proof-of-concept for extracting the audio data from a youtube video, and getting shazam to recognize it
+
+to run the code, just *make run*

@@ -1,0 +1,3 @@
+fastapi[standard]
+yt-dlp[default]
+shazamio
